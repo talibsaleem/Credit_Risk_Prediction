@@ -67,7 +67,7 @@ Credit_Risk_Prediction/
 ├── app_gui.py                   # Streamlit Interactive Dashboard
 └── README.md                    # System Documentation
 
-## 🚀 How to Run Locally
+🚀 How to Run Locally
 
 1. Clone Repository & Setup Directory
      git clone [https://github.com/your-username/Credit_Risk_Prediction.git](https://github.com/your-username/Credit_Risk_Prediction.git)
